@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cldhfleks2&label=Profile%20views&color=0e75b6&style=flat" alt="cldhfleks2" /> </p>
 
+
+
+
 - 📝 [https://velog.io/@cldhfleks2/posts](https://velog.io/@cldhfleks2/posts)
-
-에 정기적으로 글을 씁니다.- 💬 **javascript, php, aws,**
-
 - 📫 연락 방법 **cldhfleks2@naver.com**
 
 ### 블로그 게시물
