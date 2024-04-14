@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, This is SungHoon Lee, a developer who values social communication.</h1>
-<h3 align="center">I want to code for a better-connected world.</h3>
+<h3 align="left">I want to code for a better-connected world.</h3>
 
 About me
 
