@@ -1,9 +1,10 @@
 <h1 align="left">Hi 👋, This is SungHoon Lee, a developer who values social communication.</h1>
 <h3 align="center">I want to code for a better-connected world.</h3>
 
+About me
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cldhfleks2&label=Profile%20views&color=0e75b6&style=flat" alt="cldhfleks2" /> </p>
-
-
 
 
 - 📝 [https://velog.io/@cldhfleks2/posts](https://velog.io/@cldhfleks2/posts)
