@@ -35,8 +35,8 @@
       <br>JavaScript
     </td>
     </td>
-    <td align="center" width="96" style="vertical-align: middle">
-        <img src="https://private-user-images.githubusercontent.com/66894355/323202856-b2c4be88-bc64-4e92-ad54-53dddbf9d425.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNTUzMTksIm5iZiI6MTcxMzM1NTAxOSwicGF0aCI6Ii82Njg5NDM1NS8zMjMyMDI4NTYtYjJjNGJlODgtYmM2NC00ZTkyLWFkNTQtNTNkZGRiZjlkNDI1LnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDExNTY1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQyNGFjZWZhMWRkMDViNzIzNzZlZDE1YWMxZTYwZDYxOGFmNDliMDhhMjg0Zjc4MjBmZTExYmQ2ZWRjYWMzYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gXvFjYJ5kQ3g5btTRxuqov_FwP4ta7_-UD1-4_0HyFA" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;">
+    <td align="center" width="96" >
+        <img src="https://private-user-images.githubusercontent.com/66894355/323202856-b2c4be88-bc64-4e92-ad54-53dddbf9d425.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNTUzMTksIm5iZiI6MTcxMzM1NTAxOSwicGF0aCI6Ii82Njg5NDM1NS8zMjMyMDI4NTYtYjJjNGJlODgtYmM2NC00ZTkyLWFkNTQtNTNkZGRiZjlkNDI1LnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDExNTY1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQyNGFjZWZhMWRkMDViNzIzNzZlZDE1YWMxZTYwZDYxOGFmNDliMDhhMjg0Zjc4MjBmZTExYmQ2ZWRjYWMzYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gXvFjYJ5kQ3g5btTRxuqov_FwP4ta7_-UD1-4_0HyFA" alt="icon" width="65" height="65" style="max-width: 100%;">
       <br>Php
     </td>
     <td align="center" width="96">
