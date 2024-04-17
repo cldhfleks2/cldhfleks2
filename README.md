@@ -1,20 +1,14 @@
-# Hi 👋, This is SungHoon Lee,<br>  a developer who values social communication.
-### I want to code for a better-connected world.
-
-
-## Skills<br>
-<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
-
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcldhfleks2&count_bg=%2327B64F&title_bg=%23522EC8&icon=&icon_color=%23B83232&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cldhfleks2&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cldhfleks2)](https://solved.ac/cldhfleks2/)
 
 
+ddd
+
+## My Skills<br>
+<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
 
 <table align="center">
   <tbody><tr>
@@ -36,7 +30,7 @@
     </td>
     </td>
     <td align="center" width="96" >
-        <img src="https://private-user-images.githubusercontent.com/66894355/323202856-b2c4be88-bc64-4e92-ad54-53dddbf9d425.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNTUzMTksIm5iZiI6MTcxMzM1NTAxOSwicGF0aCI6Ii82Njg5NDM1NS8zMjMyMDI4NTYtYjJjNGJlODgtYmM2NC00ZTkyLWFkNTQtNTNkZGRiZjlkNDI1LnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDExNTY1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQyNGFjZWZhMWRkMDViNzIzNzZlZDE1YWMxZTYwZDYxOGFmNDliMDhhMjg0Zjc4MjBmZTExYmQ2ZWRjYWMzYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gXvFjYJ5kQ3g5btTRxuqov_FwP4ta7_-UD1-4_0HyFA" alt="icon" width="65" height="65" style="max-width: 100%;">
+        <img src="https://private-user-images.githubusercontent.com/66894355/323214883-aadf5529-d588-43c4-86bd-c60e46a2bc98.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNTY5MTUsIm5iZiI6MTcxMzM1NjYxNSwicGF0aCI6Ii82Njg5NDM1NS8zMjMyMTQ4ODMtYWFkZjU1MjktZDU4OC00M2M0LTg2YmQtYzYwZTQ2YTJiYzk4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDEyMjMzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ5MGIzODdjNWMwZDRiYjM1ZGE1ZWE4NDU2OGM4Mjg0ZDRhNWUwMDUwY2QxMWUxYjVjZGJlODUxZTYzNzlmNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.OyqE04jYq-K8bMUuddtb8sMB5jDgVYBS-gaNr6q4q7Q" alt="icon" width="65" height="65" style="max-width: 100%;">
       <br>Php
     </td>
     <td align="center" width="96">
@@ -68,7 +62,14 @@
 </hr>
 
 
-Contacts
+
+
+
+
+
+Connect with me<br>
+<a href="https://www.instagram.com/cldhfleks2">
+<img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>
 
 
 
