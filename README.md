@@ -1,15 +1,15 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcldhfleks2&count_bg=%2327B64F&title_bg=%23522EC8&icon=&icon_color=%23B83232&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cldhfleks2)](https://solved.ac/cldhfleks2/)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cldhfleks2&show_icons=true&theme=radical)
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcldhfleks2&count_bg=%2327B64F&title_bg=%23522EC8&icon=&icon_color=%23B83232&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
+### Hello There <img width="20" src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/><br><hr>
+I'm a junior developer aiming to grow in the field of web development. Currently, I lack professional experience, but I'm nurturing my dream of becoming a full-stack web developer.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cldhfleks2&show_icons=true&theme=radical)
+During my college years, I primarily focused on PS (Programming Solving) and became very familiar with C++ and JAVA languages. Recently, I developed a web community board as a personal project using AWS, JavaScript, PHP, and MySQL, so I'm very familiar with these technologies as well.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cldhfleks2)](https://solved.ac/cldhfleks2/)
+Furthermore, I'm currently studying React for user convenience and working on web pages using Python/Django.
 
-
-ddd
-
-## My Skills<br>
-<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
-
+<br><br>
+### My Skills<hr>
 <table align="center">
   <tbody><tr>
      <td align="center" width="96">
@@ -59,15 +59,14 @@ ddd
     </td>
   </tr>
 </tbody></table>
-</hr>
+<br><br><br>
 
 
 
 
 
 
-
-Connect with me<br>
+Connect with me<hr>
 <a href="https://www.instagram.com/cldhfleks2">
 <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>
 
