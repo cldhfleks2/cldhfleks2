@@ -1,6 +1,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cldhfleks2)](https://solved.ac/cldhfleks2/)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cldhfleks2&show_icons=true&theme=radical)
-<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcldhfleks2&count_bg=%2327B64F&title_bg=%23522EC8&icon=&icon_color=%23B83232&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcldhfleks2&count_bg=%2327B64F&title_bg=%23522EC8&icon=&icon_color=%23B83232&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### Hello There <img width="20" src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/><br><hr>
 I'm a junior developer aiming to grow in the field of web development. Currently, I lack professional experience, but I'm nurturing my dream of becoming a full-stack web developer.
 
@@ -9,7 +12,11 @@ During my college years, I primarily focused on PS (Programming Solving) and bec
 Furthermore, I'm currently studying React for user convenience and working on web pages using Python/Django.
 
 <br><br>
-### My Skills<hr>
+
+### My Skills
+
+<hr>
+
 <table align="center">
   <tbody><tr>
      <td align="center" width="96">
@@ -59,14 +66,13 @@ Furthermore, I'm currently studying React for user convenience and working on we
     </td>
   </tr>
 </tbody></table>
+
 <br><br><br>
 
+Connect with me
 
+<hr>
 
-
-
-
-Connect with me<hr>
 <a href="https://www.instagram.com/cldhfleks2">
 <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>
 
