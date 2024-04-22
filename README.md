@@ -22,7 +22,7 @@ Furthermore, I'm currently studying React for user convenience and working on we
       <br>C++
     </td>
      <td align="center" width="96">
-        <img src="https://private-user-images.githubusercontent.com/66894355/323205682-3b23a8d4-ac8f-440f-b9e6-c836033a69a0.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNTQ5NzcsIm5iZiI6MTcxMzM1NDY3NywicGF0aCI6Ii82Njg5NDM1NS8zMjMyMDU2ODItM2IyM2E4ZDQtYWM4Zi00NDBmLWI5ZTYtYzgzNjAzM2E2OWEwLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDExNTExN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2ZjJkODdjOGY1MzA1YmY4YjY5NjMxYWI3YmY2ZTQ1M2Y2MjY1MWFlMmZkYWY5OTViNDZjZmM2Zjg3MTdlMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GbKjR5NtwjyEh3R4B5XTUmHlfbVI4RJOYxXXeKthzp0" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/java-icon.svg" style="max-width: 100%;">
+        <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" style="max-width: 100%;">
       <br>Java
     </td>
     <td align="center" width="96">
@@ -35,7 +35,7 @@ Furthermore, I'm currently studying React for user convenience and working on we
     </td>
     </td>
     <td align="center" width="96" >
-        <img src="https://private-user-images.githubusercontent.com/66894355/323214883-aadf5529-d588-43c4-86bd-c60e46a2bc98.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNTY5MTUsIm5iZiI6MTcxMzM1NjYxNSwicGF0aCI6Ii82Njg5NDM1NS8zMjMyMTQ4ODMtYWFkZjU1MjktZDU4OC00M2M0LTg2YmQtYzYwZTQ2YTJiYzk4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDEyMjMzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ5MGIzODdjNWMwZDRiYjM1ZGE1ZWE4NDU2OGM4Mjg0ZDRhNWUwMDUwY2QxMWUxYjVjZGJlODUxZTYzNzlmNTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.OyqE04jYq-K8bMUuddtb8sMB5jDgVYBS-gaNr6q4q7Q" alt="icon" width="65" height="65" style="max-width: 100%;">
+        <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="icon" width="65" height="65" style="max-width: 100%;">
       <br>Php
     </td>
     <td align="center" width="96">
