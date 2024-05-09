@@ -3,11 +3,9 @@
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cldhfleks2&langs_count=10&layout=compact&theme=dark)]()
 
 ### Hello There <img width="20" src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/><br><hr>
-I'm a junior developer aiming to grow in the field of web development. Currently, I lack professional experience, but I'm nurturing my dream of becoming a full-stack web developer.
+웹개발자를 꿈꾸는 신입 개발자입니다.<br>
+코딩 문제 해결(PS)을 취미로 하여 C++ 및 JAVA언어를 익혔고 최근에는 AWS, JavaScript, PHP 및 MySQL을 사용하여 개인 프로젝트로 웹 커뮤니티 게시판을 개발했습니다.
 
-During my college years, I primarily focused on PS (Problem Solving) and became very familiar with C++ and JAVA languages. Recently, I developed a web community board as a personal project using AWS, JavaScript, PHP, and MySQL, so I'm very familiar with these technologies as well.
-
-Furthermore, I'm currently studying React for user convenience and working on web pages using Python/Django.
 
 <br><br>
 
