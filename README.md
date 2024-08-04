@@ -4,7 +4,7 @@
 
 ### Hello There <img width="20" src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/><br><hr>
 웹개발자를 꿈꾸는 신입 개발자입니다.<br>
-코딩 문제 해결(PS)을 취미로 하여 C++ 및 JAVA언어를 익혔고 최근에는 AWS, JavaScript, PHP 및 MySQL을 사용하여 개인 프로젝트로 웹 커뮤니티 게시판을 개발했습니다.
+코딩 문제 해결(PS)을 취미로 하여 C++ 및 JAVA언어를 익혔고 최근에는 AWS, JavaScript, PHP, Spring 및 MySQL, H2DB를 사용하여 웹 사이트를 여럿 개발했습니다.
 
 
 <br><br>
