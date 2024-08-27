@@ -1,6 +1,12 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cldhfleks2)](https://solved.ac/cldhfleks2/)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cldhfleks2&show_icons=true&theme=radical)
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cldhfleks2)](https://solved.ac/cldhfleks2/)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cldhfleks2&show_icons=true&theme=radical)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cldhfleks2&langs_count=10&layout=compact&theme=dark)]()
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cldhfleks2&langs_count=10&layout=compact&theme=dark)]()
+</div>
 
 ### Hello There <img width="20" src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/><br><hr>
 웹개발자를 꿈꾸는 신입 개발자입니다.<br>
@@ -25,7 +31,7 @@
         <br>C++
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" alt="icon" style="max-width: 100%;">
+        <img src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" alt="icon" style="max-width: 100%;">
         <br>Python
       </td>
       <td align="center" width="96" height="96">
@@ -70,17 +76,17 @@
   </tbody>
 </table>
 
-<br><br><br>
+<br>
 
 Connect with me
 
 <hr>
 
 <a href="https://www.instagram.com/cldhfleks2">
-<img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
+  <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
 </a>
 
-<br><br>
+<br>
 
 [![](https://komarev.com/ghpvc/?username=cldhfleks2&color=000000)](https://github.com/cldhfleks2?tab=repositories)
 
