@@ -61,7 +61,7 @@
         <br>AWS
       </td>
       <td align="center" width="96" height="96">
-        <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="icon" style="max-width: 100%;">
+        <img src="https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000" alt="icon" style="max-width: 100%;">
         <br>Github
       </td>
       <td align="center" width="96" height="96"> 
