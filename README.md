@@ -1,12 +1,19 @@
-<div align="center">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cldhfleks2)](https://solved.ac/cldhfleks2/)
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cldhfleks2&show_icons=true&theme=radical)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cldhfleks2&langs_count=10&layout=compact&theme=dark)]()
+<table>
+  <tr>
+    <td>
+      <a href="https://solved.ac/cldhfleks2/" target="_blank">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cldhfleks2" alt="Solved.ac Profile">
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cldhfleks2&show_icons=true&theme=radical" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cldhfleks2&langs_count=10&layout=compact&theme=dark" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
-</div>
 
 ### Hello There <img width="20" src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/><br><hr>
 웹개발자를 꿈꾸는 신입 개발자입니다.<br>
