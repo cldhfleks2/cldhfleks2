@@ -29,6 +29,14 @@
 <table align="center">
   <tbody>
     <tr>
+      <td align="center" width="96" height="96">
+        <img src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000" alt="icon" style="max-width: 100%;">
+        <br>SpringBoot
+      </td>
+      <td align="center" width="96" height="96">
+        <img src="https://img.icons8.com/?size=100&id=59927&format=png&color=000000" alt="icon" style="max-width: 100%;">
+        <br>MySQL
+      </td>
      <td align="center" width="96" height="96">
       <img src="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000" alt="icon" width="65" height="65" style="max-width: 100%;">
       <br>JAVA
@@ -45,6 +53,8 @@
         <img src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000" alt="icon" style="max-width: 100%;">
         <br>Php
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96" height="96">
         <img src="https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000" alt="icon" style="max-width: 100%;">
         <br>JavaScript
@@ -52,16 +62,6 @@
       <td align="center" width="96" height="96">
         <img src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" alt="icon" style="max-width: 100%;">
         <br>CSS
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96" height="96">
-        <img src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000" alt="icon" style="max-width: 100%;">
-        <br>SpringBoot
-      </td>
-      <td align="center" width="96" height="96">
-        <img src="https://img.icons8.com/?size=100&id=59927&format=png&color=000000" alt="icon" style="max-width: 100%;">
-        <br>MySQL
       </td>
       <td align="center" width="96" height="96">
         <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" alt="icon" style="max-width: 100%;">
