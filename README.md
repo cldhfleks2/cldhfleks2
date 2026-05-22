@@ -84,22 +84,3 @@
 </table>
 
 <br>
-
-## Connect with me
-
-<hr>
-
-<a href="https://www.instagram.com/cldhfleks2">
-  <img width="36" height="36" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
-</a>
-
-<br>
-
-[![](https://komarev.com/ghpvc/?username=cldhfleks2&color=000000)](https://github.com/cldhfleks2?tab=repositories)
-
-
-
-
-
-
-
